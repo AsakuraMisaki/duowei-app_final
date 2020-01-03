@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.administrator.gaokaoapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".layout_main"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".one_fragment_one"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".one_fragment_two"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".one_fragment_three"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".one_fragment_four"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".main"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".three_fragment_a01"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".temper_type_test"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".SocialTest"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".SocialTestResult"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".AllTestStart"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".BpmTest"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".SDSTest"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".AllResult"
+            android:launchMode="singleTask" />
+        <activity android:name=".AdmitLine"
+            android:launchMode="singleTask"></activity>
+    </application>
+
+</manifest>

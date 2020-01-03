@@ -1,0 +1,1280 @@
+﻿<resources>
+    <string name="app_name">Gaokao APP</string>
+
+    <string name="spm_start">
+        \t\t本测试依据英国心理学家瑞文(J.C.Raven)1938年设计的非文字的智力测验(瑞文标准推测验-SPM), 是目前世界上应用广泛的智力测量工具之一,测量你解决问题的能力、观察力、思维能力、发现和利用自己所需的信息及适应社会生活的能力。
+    </string>
+    <string name="spm_start_1">
+        \t\t推理能力的高低，能够度量出一个人是否具有正常的理性思维，是否能够胜任日常的生活和工作，是否能够合理客观的判断和分析事物。测评结果将从5个维度来评估您的智力IQ水平，有助于您了解自己的智力结构。
+    </string>
+    <string name="spm_start_tip">
+        本测试共72题，预计花费您30分钟
+    </string>
+    <string name="society_start">
+        \t\t社会适应能力，指的是一个人在心理上适应社会生活和社会环境的能力。社会适应能，力的高低，从某种意义上说，表明一个人的心理成熟程度。
+    </string>
+    <string name="society_start_1">
+        \t\t下面的测验题目可以帮助你更好，的了解自己的社会适应能力。你可以从题目后的答案中，选出最适合你的那个答案。
+    </string>
+    <string name="society_start_tip">
+        本测试共20题，预计花费您30分钟
+    </string>
+    <string name="temper_start">
+        \t\t心理学研究表明，每个人的气质类型各不相同，要了解自己的气质类型，可以通过日常生活中对自己的观察，或他人的评价，还可参考一些气质量表的测量结果。
+    </string>
+    <string name="temper_start_1">
+        \t\t对下面60个题的回答，没有对错之分，只要把每个题目的意思弄明白，然后品味一下，并将题目所说和你的真实思想情感与下面5种情形中的那一种相对应
+    </string>
+    <string name="temper_start_tip">
+        本测试共60题，预计花费您30分钟
+    </string>
+    <string name="sds_start">
+        \t\t人格和职业有着密切的关系，不同职业对从业者的人格特征的要求是有差距的，如果通过科学的测试，可以预知自己的人格特征，这有助于选择适合于个人发展的职业。    </string>
+    <string name="sds_start_1">
+        \t\t请根据对每一题目的第一印象作答，不必仔细推敲，答案没有好坏、对错之分。根据自己的实际情况回答“是”或“否”。    </string>
+    <string name="sds_start_tip">
+        本测试共60题，预计花费您30分钟
+    </string>
+    <string name="pf_start">
+        \t\t关于性格的测量表有很多，其中16PF是最著名而有效的。卡特尔16种个性因素测验(16PF)，是美国伊利诺州立大学个性及能力测验研究所的卡特尔教授于1949年编制的，后几经修订，形成若干版本。16PF适用于16岁以上的青年人及成年人。    </string>
+    <string name="pf_start_1">
+        \t\t对下面187道题的回答，没有对错之分，只要把每个题目的意思弄明白，然后选择合适的答案
+    </string>
+    <string name="pf_start_tip">
+        本测试共187题，预计花费您90分钟
+    </string>
+
+    <string-array name="pf_text1">
+
+        <item>1、我很明了本测验的说明:</item>
+        <item>2、我对本测验每一个问题都会按自己的真实情况作答: </item>
+        <item>3、有度假机会时,我宁愿: </item>
+        <item>4、我有足够的能力应付困难: </item>
+        <item>5、即使是关在铁笼内的猛兽,我见了也会惴惴不安: </item>
+        <item>6、我总避免批评别人的言行: </item>
+        <item>7、我的思想似乎: </item>
+        <item>8、我不擅长说笑话讲趣事: </item>
+        <item>9、当我见到同学或朋友争吵时,我总是: </item>
+        <item>10、在社交场合中,我: </item>
+        <item>11、我愿意做一名: </item>
+        <item>12、阅读时,我宁愿选读: </item>
+        <item>13、我相信许多人都有些心理不正常,虽然他们都不愿意这样承认: </item>
+        <item>14、我希望我的未来的人生伴侣擅长交际而无须有文艺才能: </item>
+        <item>15、对于性情急噪，爱发脾气的人,我仍然能以礼相待: </item>
+        <item>16、受人侍奉时我常感到不安: </item>
+        <item>17、从事体力或脑力劳动后,我总是需要比别人需要更多的休息时间: </item>
+        <item>18、半夜醒来,我会为种种忧虑而不能再入眠: </item>
+        <item>19、事情进行不顺利时,我常会急得涕泪交流: </item>
+        <item>20、我认为只要双方同意就可以离婚,不应当受传统观念的束缚: </item>
+        <item>21、我对于人或物的兴趣都很容易改变: </item>
+        <item>22、在工作中,我愿意: </item>
+        <item>23、我常会无缘无故地自言自语: </item>
+        <item>24、无论工作,饮食或出游,我总: </item>
+        <item>25、有时我会怀疑别人是否对我的言谈真正有兴趣: </item>
+        <item>26、如果在工厂中工作,我愿意做: </item>
+        <item>27、在阅读时,我愿阅读: </item>
+        <item>28、下列三个字中哪个字与其它两个字属于不同类别: </item>
+        <item>29、如果我能到一个新的环境,我要: </item>
+        <item>30、在我的一生中,我总能达到我所预期的目标: </item>
+        <item>31、当我说谎时,我总觉得内心羞愧,不敢正视对方: </item>
+        <item>32、假使我手持一支装有子弹的手枪,我必须取出子弹后才能心安: </item>
+        <item>33、多少人都认为我是一个说话风趣的人: </item>
+        <item>34、如果人们知道我的内心世界,他们都会大吃一惊: </item>
+        <item>35、在公共场合,如果我突然成为众所注意的中心,我会感到局促不安: </item>
+        <item>36、我总喜欢参加规模庞大的聚会或晚会: </item>
+        <item>37、在学科中,我喜欢: </item>
+        <item>38、我常常怀疑那些出乎我意料的对我过于友善的人的诚实动机: </item>
+        <item>39、我愿意把我的生活安排的象一个: </item>
+        <item>40、我认为目前所需要的是: </item>
+        <item>41、有时候我觉得我需要做剧烈的体力活动: </item>
+        <item>42、我愿意与有教养的人来往,而不愿和粗鲁的人交往: </item>
+        <item>43、在处理一些必须凭借智慧的事务中,我的亲人的确: </item>
+        <item>44、当领导召见我时,我: </item>
+        <item>45、如果待遇优厚,我愿意做护理精神病人的工作: </item>
+        <item>46、看报时,我喜欢读: </item>
+        <item>47、在接受困难任务时，我总是: </item>
+        <item>48、在游览时,我宁愿参观一个画家的写生,也不愿听人家的辩论: </item>
+        <item>49、我的神经脆弱,稍有点刺激就会战栗: </item>
+        <item>50、清晨起来时,常常感到疲惫不堪: </item>
+        <item>51、如果待遇相同，我愿意做: </item>
+        <item>52、每逢年节或亲友生日,我: </item>
+        <item>53、下列数字中,哪个数字与其他两个数字属于不同类别: </item>
+        <item>54、猫与鱼就如同牛与: </item>
+        <item>55、我在小学时敬佩的老师，到现在仍然值得我敬佩: </item>
+        <item>56、我觉得我确实有一些别人所不及的优良品质: </item>
+        <item>57、根据我的能力，即使让我做一些平凡的工作，我也会安心的: </item>
+        <item>58、我喜欢看电影或参加其他娱乐活动: </item>
+        <item>59、我希望从事需要精确技术的工作: </item>
+        <item>60、在有威望,有地位的人面前,我总是较为局促、谨慎: </item>
+        <item>61、对我来说,在大众前演讲或表演是一件不容易的事: </item>
+        <item>62、我愿意: </item>
+        <item>63、即使我做了一件让别人笑话的事,我也能够坦然处之: </item>
+        <item>64、我认为没有人会幸灾乐祸地希望我遭遇困难: </item>
+        <item>65、一个人应该: </item>
+        <item>66、我喜欢解决别人已弄得一塌糊涂的问题: </item>
+        <item>67、当我非常高兴的时候，总有好景不常之感: </item>
+        <item>68、在一般困难处境下,我总能保持乐观: </item>
+        <item>69、迁居是一桩极不愉快的事: </item>
+        <item>70、在我年轻的时候,如果我和父母的意见不同,我经常: </item>
+        <item>71、我希望我的家庭: </item>
+        <item>72、我解决问题多数依靠: </item>
+        <item>73、需要当机立断时,我总会: </item>
+        <item>74、最近,在一两桩事情上,我觉得自己是无辜受累: </item>
+        <item>75、我善于控制我的表情: </item>
+        <item>76、如果待遇相同,我愿意做: </item>
+        <item>77、“惊讶”与“新奇”犹如“惧怕”与: </item>
+        <item>78、下列三个分数中,哪一个与其他两个属不同类别: </item>
+        <item>79、不知什么缘故,有些人总是回避或冷淡我: </item>
+        <item>80、我虽善意待人,却常常得不到好报: </item>
+        <item>81、我不喜欢争强好胜的人: </item>
+        <item>82、和一般人相比,我的朋友的确太少: </item>
+        <item>83、万不得已时,我才参加社交集会,否则我总设法回避: </item>
+        <item>84、对上级的逢迎得当比工作上的表现更为重要: </item>
+        <item>85、参加竞赛时,我总是着重在竞赛的活动,而不计较其成败: </item>
+        <item>86、按照我的个人意愿，我希望做的工作是: </item>
+        <item>87、我愿意阅读: </item>
+        <item>88、我认为有许多人不敢欺骗或犯罪,其主要原因是怕受到惩罚: </item>
+        <item>89、我的父母(或监护人)从未很严格地要我事事顺从: </item>
+        <item>90、“百折不挠，再接再厉”的精神似乎完全被现代人忽视了: </item>
+        <item>91、如果有人对我发火,我总是: </item>
+        <item>92、我希望: </item>
+        <item>93、无论在极高的屋顶上或极深的隧道中,我很少感到忐忑不安: </item>
+        <item>94、我只要没有过错,不管人家怎样归咎于我,我总能心安理得: </item>
+        <item>95、我认为凡是无法运用理智来解决的问题,有时就不得不靠权力来处理: </item>
+        <item>96、我在年轻时与异性朋友的交游: </item>
+        <item>97、我在交际场或所参加的组织中是一个活跃分子: </item>
+        <item>98、在人声噪杂中,我仍能不受妨碍,专心工作: </item>
+        <item>99、在某些心境下,我常常因为困惑或陷入空想而将工作搁置下来: </item>
+        <item>100、我很少用难堪的话去中伤别人的感情: </item>
+        <item>101、让我选择，我愿意做一名: </item>
+        <item>102、“理不胜辞”的意思是: </item>
+        <item>103、“锄头”与“挖掘”犹如“刀子”与: </item>
+        <item>104、我常常避开我所不愿意打招呼的人: </item>
+        <item>105、当我聚精会神的听音乐时,如果人家在旁高谈阔论: </item>
+        <item>106、在课堂上,如果我的意见与教师不同,我常常: </item>
+        <item>107、我单独跟异性谈话时，总显得不自然: </item>
+        <item>108、我待人接物方面，的确不太成功: </item>
+        <item>109、每当做一件困难工作时,我总是: </item>
+        <item>110、我所结交的朋友中,男女各占一半: </item>
+        <item>111、我宁可: </item>
+        <item>112、我宁愿做一个社会科学家而不愿做一个机械工作者: </item>
+        <item>113、如果我发现别人的缺点,我总不计一切的提出指责: </item>
+        <item>114、我善于设法影响和我一起工作的同志,使他们能协助我实现我的目标: </item>
+        <item>115、我喜欢做戏剧,音乐,歌剧，新闻采访等工作: </item>
+        <item>116、当人们表扬我时,我总觉得不好意思: </item>
+        <item>117、我以为一个国家最需要解决的问题是: </item>
+        <item>118、我有时会无故地产生一种面临大祸的恐惧: </item>
+        <item>119、我在童年时,害怕黑暗的次数: </item>
+        <item>120、在闲暇的时候,我喜欢: </item>
+        <item>121、当人们批评我古怪不正常时,我:</item>
+        <item>122、在一个陌生的城市找住址时,我经常: </item>
+        <item>123、当朋友声言要在家休息时,我仍设法怂恿他同我一起外出: </item>
+        <item>124、在就寝时,我: </item>
+        <item>125、有人烦扰我时,我: </item>
+        <item>126、如果待遇相同,我宁愿做一个: </item>
+        <item>127、“时间变成了永恒”，这是比喻: </item>
+        <item>128、下列三项记号中,哪一项应紧接:×OOOO××OOO×××</item>
+        <item>129、在陌生的地方,我仍能清楚地辩别东西南北的方向: </item>
+        <item>130、我热爱我所学的专业和所从事的工作: </item>
+        <item>131、如果我急于想借用别人的东西而物主恰又不在,我认为不告而取也没有关系:</item>
+        <item>132、我喜欢向朋友讲述一些我个人有趣的经历: </item>
+        <item>133、我更愿意做一名: </item>
+        <item>134、工作学习之余,我总要安排计划,不使时间浪费: </item>
+        <item>135、与人交往时,我常常会无缘无故地产生一种自卑感: </item>
+        <item>136、和不熟悉的人交谈对我来说: </item>
+        <item>137、我喜欢的音乐,多数是: </item>
+        <item>138、我爱想入非非: </item>
+        <item>139、未来二十年的世界局势定将好转: </item>
+        <item>140、童年时,我喜欢阅读: </item>
+        <item>141、我向来对机械、汽车等有兴趣: </item>
+        <item>142、即使让我做一个缓刑罪犯的管理人，我也会把工作搞的较好: </item>
+        <item>143、人们认为我只不过是一个能苦干,稍有成就的人而已: </item>
+        <item>144、就是在不顺利的情况下,我总能保持精神振奋: </item>
+        <item>145、我以为计划生育是解决世界经济与和平问题的要诀: </item>
+        <item>146、工作中，我喜欢独自筹划,不愿受别人的干涉: </item>
+        <item>147、尽管有的同志和我的意见不和，但我仍能跟他团结: </item>
+        <item>148、工作和学习中，我总设法使自己不粗心大意,忽略细节: </item>
+        <item>149、与人争辩或险遭事故后,我常常表现出震颤、精疲力竭,不能安心工作: </item>
+        <item>150、未经医生处方,我是从不乱吃药的: </item>
+        <item>151、根据个人的兴趣,我愿意参加: </item>
+        <item>152、星火——燎原对等于姑息——: </item>
+        <item>153、“钟表”与“时间”犹如“裁缝”与: </item>
+        <item>154、生动的梦境，常常干扰我的睡眠: </item>
+        <item>155、我爱打抱不平: </item>
+        <item>156、如果到一个陌生的城市中,我将要: </item>
+        <item>157、我宁愿穿朴素的衣服,而不愿穿华丽的服装: </item>
+        <item>158、我认为宁静的娱乐远远胜过热闹的宴会: </item>
+        <item>159、我明知道自己有缺点,但不愿意接受别人的建议: </item>
+        <item>160、我总把“是非善恶”作为处理问题的原则: </item>
+        <item>161、当我工作时，不喜欢有许多人在旁参观: </item>
+        <item>162、我认为，侮辱那些即使有错误的有文化有教养的人,如医生,教师等,也是不应该的:</item>
+        <item>163、在各种课程中,我较喜欢: </item>
+        <item>164、那些自以为是、道貌岸然的人使我生气: </item>
+        <item>165、与循规蹈矩的人交谈: </item>
+        <item>166、我喜欢: </item>
+        <item>167、如果征求我的意见，我赞同: </item>
+        <item>168、我有时会无缘无故地感到沮丧、痛苦: </item>
+        <item>169、当我与立场相反的人辩论时,我主张: </item>
+        <item>170、我一向重感情而不重理智,因此我的观点常动摇不定: </item>
+        <item>171、我的学习多赖于: </item>
+        <item>172、我宁选一个工资较高的工作,不在乎有无保障;而不愿做工资低的固定工作: </item>
+        <item>173、在参加讨论时,我总是能把握住自己的立场: </item>
+        <item>174、我常被一些无所谓的小事所烦扰: </item>
+        <item>175、我宁愿住在嘈杂的闹市区,而不愿住在偏静的乡村: </item>
+        <item>176、下列的工作如果任我挑选，我愿做: </item>
+        <item>177、一人___事,众人受累.: </item>
+        <item>178、望子成龙的家长往往___苗助长: </item>
+        <item>179、气侯的变化并不影响我的情绪: </item>
+        <item>180、因为我对于一切问题都有些见解,大家都认为我是一个有头脑的人: </item>
+        <item>181、我讲话的声音: </item>
+        <item>182、一般人都认为我是一个活跃热情的人: </item>
+        <item>183、我喜欢做出差机会较多的工作: </item>
+        <item>184、我做事严格,力求把事情办的尽善尽美: </item>
+        <item>185、在取回或归还东西时,我总仔细检查,看是否东西还保持原样: </item>
+        <item>186、我通常精力充沛,忙碌多事: </item>
+        <item>187、我确信我没有遗漏或不经心回答上面任何问题: </item>
+
+    </string-array>
+
+    <string-array name="pf_text1_a">
+
+        <item>是的</item>
+        <item>是的</item>
+        <item>到一个繁华的城市去旅行</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>比较激进</item>
+        <item>是的</item>
+        <item>任其自己解决</item>
+        <item>谈吐自如</item>
+        <item>建筑工程师</item>
+        <item>自然科学书籍</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>常常如此</item>
+        <item>从不如此</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>和别人合作</item>
+        <item>常常如此</item>
+        <item>匆匆忙忙,不能尽兴</item>
+        <item>是的</item>
+        <item>技术性的工作</item>
+        <item>有关太空旅行的书籍</item>
+        <item>狗</item>
+        <item>把生活安排得和以前不同</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>音乐</item>
+        <item>是的</item>
+        <item>艺术家</item>
+        <item>多出现一些改造世界的理想家</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>较一般人差</item>
+        <item>总觉得可以趁机提出建议</item>
+        <item>是的</item>
+        <item>当前世界的基本问题</item>
+        <item>有独立完成的信心</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>森林管理人员</item>
+        <item>喜欢赠送礼物</item>
+        <item>5</item>
+        <item>牛奶</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>比一般人多</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>指挥几个人工作</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>考虑人生的意义</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>坚持自己的意见</item>
+        <item>有其本身的欢乐与活动</item>
+        <item>个人独立思考</item>
+        <item>镇静地运用理智</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>化学研究工作者</item>
+        <item>勇敢</item>
+        <item>3/7</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>总是如此</item>
+        <item>有固定可靠的薪水</item>
+        <item>军事与政治的实事记载</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>设法使他镇静下来</item>
+        <item>对任何人都友善</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>极多</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>商店经理</item>
+        <item>理不如辞</item>
+        <item>雕刻</item>
+        <item>很少如此</item>
+        <item>我仍然能够专心听,不受影响</item>
+        <item>保持沉默</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>预先做好准备</item>
+        <item>是的</item>
+        <item>结识很多的人</item>
+        <item>是的.</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>政治问题</item>
+        <item>是的</item>
+        <item>极多</item>
+        <item>看一部历史性的探险影片</item>
+        <item>非常气恼</item>
+        <item>就人问路</item>
+        <item>是的</item>
+        <item>不易入睡</item>
+        <item>能不露生色</item>
+        <item>律</item>
+        <item>时间过得很慢</item>
+        <item>×O×</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>演员</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>毫不困难</item>
+        <item>轻快活泼的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>神仙幻想故事 </item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>摄影活动</item>
+        <item>同情</item>
+        <item>服装</item>
+        <item>经常如此</item>
+        <item>是的</item>
+        <item>到处闲游</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>偶然如此</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是</item>
+        <item>语文</item>
+        <item>是的</item>
+        <item>颇有兴趣.并有所得</item>
+        <item>有几个有时对我很苛求而富有感情的朋友</item>
+        <item>切实根绝有生理缺陷者的生育</item>
+        <item>是的</item>
+        <item>尽量找出基本概念的差异</item>
+        <item>是的</item>
+        <item>阅读书刊</item>
+        <item>是的</item>
+        <item>经常如此</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>少先队辅导员</item>
+        <item>偾</item>
+        <item>揠</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>宏亮</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+        <item>是的</item>
+
+
+    </string-array>
+
+    <string-array name="pf_text1_b">
+
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>有时如此</item>
+        <item>一般</item>
+        <item>介乎A与C之间</item>
+        <item>介于A，C</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>有时如此</item>
+        <item>有时如此</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>偶然如此</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不太确定</item>
+        <item>石头</item>
+        <item>不确定</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>普通</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>不太确定</item>
+        <item>2.</item>
+        <item>牧草</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>不太确定</item>
+        <item>与一般人相同</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>焦虑</item>
+        <item>3/9</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>一般如此</item>
+        <item>介乎A与C之</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>不太确定</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不太确定</item>
+        <item>不确定</item>
+        <item>理多而辞寡</item>
+        <item>切剖</item>
+        <item>偶然如此</item>
+        <item>介乎A与C之</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不尽然</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>不太确定</item>
+        <item>有时如此</item>
+        <item>不太多</item>
+        <item>不一定</item>
+        <item>有些动气</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>忘了时间</item>
+        <item> OO×</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>不一定</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不太确定</item>
+        <item>不太确定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>养奸</item>
+        <item>剪刀</item>
+        <item>偶然如此</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>不太确定</item>
+        <item>不太确定</item>
+        <item>极少如此</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不确定</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>大致如此</item>
+        <item>介乎A与C之间</item>
+        <item>不太确定</item>
+        <item>一般如此</item>
+        <item>介乎A与C之间</item>
+        <item>不太确定</item>
+        <item>不确定</item>
+        <item>愤</item>
+        <item>堰</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>介乎A与C之间</item>
+        <item>不一定</item>
+        <item>不确定</item>
+    </string-array>
+
+    <string-array name="pf_text1_c">
+
+        <item>不是的 </item>
+        <item>不同意 </item>
+        <item>到清静的山区去游览 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>比较保守 </item>
+        <item>不是的 </item>
+        <item>予以劝解 </item>
+        <item>保持沉默 </item>
+        <item>社会科学工作者 </item>
+        <item>文艺书籍 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>从不如此 </item>
+        <item>常常如此 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>自己单独进行 </item>
+        <item>从不如此 </item>
+        <item>从容不迫 </item>
+        <item>不是的 </item>
+        <item>管理性的工作 </item>
+        <item>有关家庭教育的书籍 </item>
+        <item>牛 </item>
+        <item>和以前相仿 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>手工劳动 </item>
+        <item>不是的 </item>
+        <item>会计师 </item>
+        <item>脚踏实地的实干家 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>超人一等 </item>
+        <item>总怀疑自己做错了事 </item>
+        <item>不是的 </item>
+        <item>地方新闻 </item>
+        <item>希望有别人的指导和帮助 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>中小学教员 </item>
+        <item>觉得交换礼物是麻烦多事 </item>
+        <item>7 </item>
+        <item>盐 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>比通常人少 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>和同志们一起工作 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>踏踏实实的工作和学习 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>接受他们的意见 </item>
+        <item>成为邻里社交活动的一部分 </item>
+        <item>与人互相讨论 </item>
+        <item>常常紧张兴奋 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>旅行社经理 </item>
+        <item>恐怖 </item>
+        <item>3/11 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>偶然如此 </item>
+        <item>薪资高低能随我工作的表现而随时调整 </item>
+        <item>富有情感与幻想的作品 </item>
+        <item>不是的. </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>也会发起火来 </item>
+        <item>进行必要的斗争 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不很多 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>建筑师 </item>
+        <item>辞藻丰富而理由不足 </item>
+        <item>铲除 </item>
+        <item>有时如此 </item>
+        <item>我会不能专心欣赏而感到恼怒 </item>
+        <item>当场表明立场 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>相信车到山前必有路 </item>
+        <item>不是的 </item>
+        <item>维持几个深交的朋友 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>道德问题 </item>
+        <item>不是的 </item>
+        <item>没有 </item>
+        <item>读一本科学性的幻想小说 </item>
+        <item>无所谓 </item>
+        <item>参考市区地图 </item>
+        <item>不是的 </item>
+        <item>极容易入睡 </item>
+        <item>总要说给别人听,以泄气愤 </item>
+        <item>航海员 </item>
+        <item>光阴一去不复返 </item>
+        <item> O×× </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>建筑师 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>困难 </item>
+        <item>富于感情的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>战争故事 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>文娱活动 </item>
+        <item>纵容 </item>
+        <item>布料 </item>
+        <item>从未如此 </item>
+        <item>不是的 </item>
+        <item>避免去不安全的地方 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>从不如此 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>数学 </item>
+        <item>不是的 </item>
+        <item>他们的思想简单，使我厌烦 </item>
+        <item>不受别人的干扰 </item>
+        <item>对杀人犯必须判处死刑 </item>
+        <item>不是的 </item>
+        <item>彼此让步 </item>
+        <item>不是的 </item>
+        <item>参加集体讨论 </item>
+        <item>不是的 </item>
+        <item>必要时才如此 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>修表工作 </item>
+        <item>喷 </item>
+        <item>偃 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>低沉 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+        <item>不是的 </item>
+    </string-array>
+    <string-array name="text1">
+        <item>1、假如你的朋友突然带来一个你最不喜欢的人到你的家里，你会：</item>
+        <item>2、对自己的某次失败，你 </item>
+        <item>3、当遇到困难的时候，你 </item>
+        <item>4、你骑自行车到一个比较远的地方去参加社交活动，中途找不到路标时，你 </item>
+        <item>5、当你选择衣服时，你 </item>
+        <item>6、当你知道将要有不愉快的事情时，你会 </item>
+        <item>7、在嘈杂混乱的环境里，你 </item>
+        <item>8、和别人内争吵起来时，你 </item>
+        <item>9、每次参加正式的考试或竞争，你 </item>
+        <item>10、必须在大庭广众面前说话时，你</item>
+        <item>11、对团体或社会性的集会，你</item>
+        <item>12、受到别人的批评，你 </item>
+        <item>13、当情况紧迫时，你 </item>
+        <item>14、参加各种比赛时，赛场越激烈，群众越加油， </item>
+        <item>15、碰到阻力和困难时，你 </item>
+        <item>16、你符合下面哪一种情况：</item>
+        <item>17、假如自己被登报了，你 </item>
+        <item>18、为了给人留下好印象，你 </item>
+        <item>19、为了给人留下好印象，你</item>
+        <item>20、你同意下面哪一种观点： </item>
+        <item>完成 </item>
+    </string-array>
+
+    <string-array name="text1_a">
+
+        <item>表示惊奇</item>
+        <item>只要别人有兴趣随时都会告诉他</item>
+        <item>毫不犹豫的向有关专家、老师征求意见</item>
+        <item>赶快查自带的地图</item>
+        <item>总是固定在一种款式上</item>
+        <item>自己进入紧张的状态</item>
+        <item>总觉得很烦，不能静下来</item>
+        <item>能够有力的反驳对方</item>
+        <item>常常比平时的成绩更好些</item>
+        <item>因怯场，便不知所措或说话结巴</item>
+        <item>总是想领导讨论</item>
+        <item>想找机会来批评他</item>
+        <item>仍然能够注意到该注意的细节</item>
+        <item>你的成绩就越好</item>
+        <item>经常改变既定的主意</item>
+        <item>不安于现状，总想改变点什么</item>
+        <item>只要是正确的，就坚持敢于孤立</item>
+        <item>有点自豪，但是并不以为然</item>
+        <item>想方设法，并花费一定的时间来考虑计划</item>
+        <item>为了深入了解自己的国家，学习外国的东西是件好事</item>
+        <item>完成 </item>
+    </string-array>
+
+    <string-array name="text1_b">
+
+        <item>将你的感觉完全隐藏</item>
+        <item>只在谈话中顺便说出来</item>
+        <item>经常向熟人请教</item>
+        <item>大声埋怨，不知道何时才能到达目的地</item>
+        <item>跟随新潮流，希望适合自己</item>
+        <item>相信事实并不会比预料的厉害</item>
+        <item>仍然能够集中精神学习，但效率降低了</item>
+        <item>常常语无伦次，事后才想起要如何反驳对方，可是已经晚了</item>
+        <item>常常不如平时的成绩</item>
+        <item>感觉虽然难，但还是想方设法完成</item>
+        <item>只有在知道讨论题目时才参加</item>
+        <item>想查明受批评的原因</item>
+        <item>就粗心大意，丢三落四</item>
+        <item>你的成绩越上不去</item>
+        <item>不改变既定的主意</item>
+        <item>凡事只求讲"规范"，不做破格的事情</item>
+        <item>在矛盾方面让一让，就过去了</item>
+        <item>很高兴，想让朋友也看看</item>
+        <item>不特意去做，但是有机会就利用</item>
+        <item>外国的事和我们没有任何关系</item>
+        <item>完成 </item>
+    </string-array>
+
+    <string-array name="text1_c">
+        <item>暂时忍耐 </item>
+        <item>决不说，怕被别人抓住弱点，对自己不利。  </item>
+        <item>很少麻烦别人 </item>
+        <item>耐心等待过路车或等人走过时，问个清楚 </item>
+        <item>在选定之前，先听取陪同的朋友或售货员的意见 </item>
+        <item>感觉完全有办法应付 </item>
+        <item>不受影响，照常学习</item>
+        <item>能够反驳，但是没有多大的力量 </item>
+        <item>和平时的成绩差  </item>
+        <item>侃侃而谈 </item>
+        <item>讨厌在集会上说话，所以不参加 </item>
+        <item>想直接了解一下批评的理由 </item>
+        <item>就慌慌张张 </item>
+        <item>你的成绩不会受到影响 </item>
+        <item>越有干劲 </item>
+        <item>礼貌要讲，但事情也要做 </item>
+        <item>尽量平和，把批评和斗争降到不得已的程度 </item>
+        <item>完全不感兴趣 </item>
+        <item>根本不想在别人面前做这种事情 </item>
+        <item>学习外国的东西比学习本国的东西更感兴趣 </item>
+        <item>完成 </item>
+    </string-array>
+
+    <string-array name="temper_q">
+
+        <item>做事力求稳妥，不做无把握的事。</item>
+        <item>遇到使你生气的事就怒不可遏。</item>
+        <item>宁肯一人干事，不愿意和很多人在一起。</item>
+        <item>到一个新环境很快就能适应。</item>
+        <item>厌恶那些强烈的刺激，如尖叫、噪音、危险镜头等。</item>
+        <item>和人争吵时，总想先发制人，喜欢挑衅。</item>
+        <item>喜欢安静的环境。</item>
+        <item>善于和人交往。</item>
+        <item>羡慕那些善于克制自己感情的人。</item>
+        <item>生活有规律，很少违反作息制度。</item>
+        <item>在多数情况下情绪是乐观的。</item>
+        <item>碰到陌生人觉得很拘束。</item>
+        <item>遇到令人气愤的事，能很好的自我克制。</item>
+        <item>做事总是有旺盛的精力。</item>
+        <item>遇到问题常常举棋不定，优柔寡断。 </item>
+        <item>在人群中不觉得过分拘束。</item>
+        <item>情绪高昂时，觉得什么都有趣，情绪低落时，又觉得干什么都没意思。</item>
+        <item>当注意力集中于一件事物时，别的事很难放到心上。</item>
+        <item>理解问题总比别人快。</item>
+        <item>碰到危险情况时，有极度恐怖感。</item>
+        <item>对工作学习、事业有很高的热情。 </item>
+        <item>能够长时间做枯燥、单调的工作。 </item>
+        <item>符合兴趣的事，干起来劲头十足，否则就不想干。</item>
+        <item>一点小事就能引起情绪波动。</item>
+        <item>讨厌那种需要耐心细致的工作。</item>
+        <item>与人交往不卑不亢。</item>
+        <item>喜欢热烈的活动。</item>
+        <item>喜看感情细腻描写人物内心活动的文学作品。</item>
+        <item>工作学习时间长了，常感到厌倦。</item>
+        <item>不喜欢长时间谈论一个问题，愿意实际动手干。</item>
+        <item>宁愿侃侃而谈，不愿窃窃私语。</item>
+        <item>别人说我总是闷闷不乐。</item>
+        <item>理解问题常比别人慢。</item>
+        <item>厌倦时只要短暂的休息就能精神抖擞，重新投入工作。</item>
+        <item>心里有话宁愿自己想，不愿说出来</item>
+        <item>认准一个目标就希望尽快实现，不达目的，誓不罢休。  </item>
+        <item>学习工作一段时间后，常比别人更困倦。</item>
+        <item>做事有些鲁莽，常常不考虑后果。</item>
+        <item>老师讲授新知识时，总希望讲解慢些，多重复几便。</item>
+        <item>能够很快的忘记那些不愉快的事情。</item>
+        <item>做作业或完成一项工作总比别人花的时间多。</item>
+        <item>喜欢运动量大的剧烈体育活动，也喜欢参加多种文艺活动。 </item>
+        <item>不能很快的把注意力从一件事情转移到另一件事情上去。</item>
+        <item>接受一个新任务后，就希望把它迅速解决。</item>
+        <item>认为墨守成规比冒险强些。</item>
+        <item>能够同时注意几件事物。</item>
+        <item>当我烦闷的时候，别人很难使我高兴起来。</item>
+        <item>爱看情节起伏跌宕、激动人心的小说。</item>
+        <item>对工作认真、严谨，持始终一贯的态度。</item>
+        <item>喜欢复习学过的知识，重复做已经掌握的工作。</item>
+        <item>和周围的人的关系总是相处得不好。  </item>
+        <item>喜欢变化大，花样多的工作。</item>
+        <item>小的时候会背的诗歌，我似乎比别人记得更清楚。</item>
+        <item>别人说我/"出语伤人/"，自己并不觉得这样。</item>
+        <item>在体育活动中，常因反应慢而落后。</item>
+        <item>反应敏捷，头脑机智。</item>
+        <item>喜欢有条理而不甚麻烦的工作。</item>
+        <item>兴奋的事情常使我失眠。</item>
+        <item>老师讲的新概念，我常常听不懂。</item>
+        <item>假如工作枯燥无味，马上就会情绪低落。</item>
+    </string-array>
+
+    <string-array name="sds_q">
+        <item>我喜欢把一件事情做完后再做另一件事。</item>
+        <item>在工作中我喜欢独自筹划，不愿受别人干涉。</item>
+        <item>在集体讨论中，我往往保持沉默。</item>
+        <item>我喜欢做戏剧音乐歌舞新闻采访等方面的工作。</item>
+        <item>每次写信我都一挥而就，不再重复。</item>
+        <item>我经常不停地思考某一问题，直到想出正确的答案。</item>
+        <item>对别人借我的和我借别人的东西，我都能记得很清楚。</item>
+        <item>我喜欢抽象思维的工作，不喜欢动手的工作。</item>
+        <item>我喜欢成为人们注意的焦点。</item>
+        <item>我喜欢不时地夸耀一下自己取得的好成就。</item>
+        <item>我曾经渴望有机会参加探险。</item>
+        <item>当我一个独处时，会感到更愉快。</item>
+        <item>我喜欢在做事情前，对此事情做出细致的安排。</item>
+        <item>我讨厌修理自行车电器一类的工作。</item>
+        <item>我喜欢参加各种各样的聚会。</item>
+        <item>我愿意从事虽然工资少但是比较稳定的职业。</item>
+        <item>音乐能使我陶醉。</item>
+        <item>我办事很少思前想后。</item>
+        <item>我喜欢经常请示上级。</item>
+        <item>我喜欢需要运用智力的游戏。</item>
+        <item>我很难做那种需要持续集中注意力的工作。</item>
+        <item>我喜欢亲自动手制作一些东西，从中得到乐趣。</item>
+        <item>我的动手能力很差。</item>
+        <item>和不熟悉的人交谈对我来说毫不困难。</item>
+        <item>和别人谈判时，我总是很容易放弃自己的观点。</item>
+        <item>我很容易结识同性朋友。</item>
+        <item>对于社会问题，我通常持中庸的态度。</item>
+        <item>当我开始做一件事情后，即使碰到再多的困难，我也要执著</item>
+        <item>我是一个沉静而不易动感情的人。</item>
+        <item>当我工作时，我喜欢避免干扰。</item>
+        <item>我的理想是当一名科学家。</item>
+        <item>与言情小说相比，我更喜欢推理小说。</item>
+        <item>有些人太霸道，有时明明知道他们是对的，也要和他们对着。</item>
+        <item>我爱幻想。</item>
+        <item>我总是主动地向别人提出自己的建议。</item>
+        <item>我喜欢使用榔头一类的工具。</item>
+        <item>我乐于解除别人的痛苦。</item>
+        <item>我更喜欢自己下了赌注的比赛或游戏。</item>
+        <item>我喜欢按部就班地完成要做的工作。</item>
+        <item>我希望能经常换不同的工作来做。</item>
+        <item>我总留有充裕的时间去赴约会。</item>
+        <item>我喜欢阅读自然科学方面的书籍和杂志。</item>
+        <item>如果掌握一门手艺并能以此为生，我会感到非常满意。</item>
+        <item>我曾渴望当一名汽车司机。</item>
+        <item>听别人谈“家中被盗”一类的事，很难引起我的同情。</item>
+        <item>如果待遇相同，我宁愿当商品推销员，而不愿当图书管理员。</item>
+        <item>我讨厌跟各类机械打交道。</item>
+        <item>我小时候经常把玩具拆开，把里面看个究竟。</item>
+        <item>当接受新任务后，我喜欢以自己的独特方法去完成它。</item>
+        <item>我有文艺方面的天赋。</item>
+        <item>我喜欢把一切安排得整整齐齐井井有条。</item>
+        <item>我喜欢作一名教师。</item>
+        <item>和一群人在一起的时候，我总想不出恰当的话来说。</item>
+        <item>看情感影片时，我常禁不住眼圈红润。</item>
+        <item>我讨厌学数学。</item>
+        <item>在实验室里独自做实验会令我寂寞难耐。</item>
+        <item>对于急躁爱发脾气的人，我仍能以礼相待。</item>
+        <item>遇到难解答的问题时，我常常放弃。</item>
+        <item>大家公认我是一名勤劳踏实的愿为大家服务的人.</item>
+        <item>我喜欢在人事部门工作。</item>
+    </string-array>
+
+    <string-array name="sds_a_number">
+
+        <item>RIA</item>
+        <item>RIS</item>
+        <item>RIE</item>
+        <item>RIC</item>
+        <item>RAI</item>
+        <item>RSE</item>
+        <item>RSI</item>
+        <item>REC</item>
+        <item>REI</item>
+        <item>RES</item>
+        <item>RCI</item>
+        <item>RCS</item>
+        <item>RCE</item>
+        <item>IAS</item>
+        <item>IAR</item>
+        <item>ISE</item>
+        <item>ISC</item>
+        <item>ISR</item>
+        <item>ISA</item>
+        <item>IES</item>
+        <item>IEC</item>
+        <item>ICR</item>
+        <item>IRA</item>
+        <item>IRS</item>
+        <item>IRE</item>
+
+    </string-array>
+
+    <string-array name="sds_a_text">
+
+        <item>牙科技术员、陶工、 建筑设计员、模型工、细木工、制作链条人员。</item>
+        <item>   厨师、林务员、跳水员、潜水员、染色员、电器修理、眼镜制作、电工、 纺织机器装配工、服务员、装玻璃工人、发电厂工人、焊接工。</item>
+        <item>    建筑和桥梁工程、环境工程、航空工程、公路工程、电力工程、信号工程、电话工程、  一般机械工程、自动工程、矿业工程、海洋工程、交通工程技术人员、制图员、 家政经济人员、计量员、农民、农场工人、农业机械操作、清洁工、无线电修理、 汽车修理、手表修理、管工、线路装配工、工具仓库管理员。</item>
+        <item>    船上工作人员、接待员、杂志保管员、牙医助手、制帽工、磨坊工、石匠、机器制造、  机车(火车头)制造、农业机器装配、汽车装配工、缝纫机装配工、钟表装配和检验、 电动器具装配、鞋匠、锁匠、货物检验员、电梯机修工、装配工、托儿所所长、 钢琴调音员、印刷工、建筑 钢铁工作、卡车司机。</item>
+        <item>   手工雕刻、玻璃雕刻、制作模型人员、家具木工、制作皮革品、手工绣花、  手工钩针纺织、排字工作、印刷工作、图画雕刻、装订工。</item>
+        <item>   消防员、交通巡警、警察、门卫、理发师、房间清洁工、屠夫、锻工、开凿工人、  管道安装工、出租汽车驾驶员、货物搬运工、送报员、勘探员、 娱乐场所的服务员、 起卸机操作工、灭害虫者、电梯操作工、厨房助手。</item>
+        <item>   纺织工、编织工、农业学校教师、某些职业课程教师(诸如艺术、商业、技术、工艺课程)、  雨衣上胶工。</item>
+        <item>   抄水表员、保姆、实验室动物饲养员、动物管理员。</item>
+        <item>    轮船船长、航海领航员、大副、试管实验员。</item>
+        <item>   旅馆服务员、家畜饲养员、渔民、渔网修补工、水手长、收割机操作工、搬运行李工人、  公园服务员、救 生员、登山导游、火车工程技术员、建筑工作、铺轨工人。</item>
+        <item>   测量员、勘测员、仪表操作者、农业工程技术、化学工程技师、民用工程技师、  石油工程技师、资料室管理员、探矿工、煅烧工、烧窖工、矿工、炮手、保养工、 磨床工、取样工、样品检验员、纺纱工、漂洗工、电焊工、锯木工、刨床工、制帽工、 手工缝纫工、油漆工、 染色工、按摩工、木匠、农民建筑工作、电影放映员、 勘测员助手。</item>
+        <item>   公共汽车驾驶员、一等水手、游泳池服务员、裁缝、建筑工作、石匠、烟囱修建工、混凝土工、电话修理工、爆炸手、 邮递员、矿工、裱糊工人、纺纱工。</item>
+        <item>   打井工、吊车驾驶员、农场工人、邮件分类员、铲车司机、拖拉机司机。</item>
+        <item>   普通经济学家、农场经济学家、财政经济学家、国际贸易经济学家、实验心理       学家、工程心理学家、心理学家、哲学家、内科医生、数学家。</item>
+        <item>   人类学家、天文学家、化学家、物理学家、医学病理、动物标本剥制者、化石修复者、       艺术品管理者。</item>
+        <item>   营养学家、饮食顾问、火灾检查员、邮政服务检查员。</item>
+        <item>   侦察员、电视播音室修理员、电视修理服务员、验尸室人员、编目录者、  医学实验定技师、调查研究者。</item>
+        <item>   水生生物学者，昆虫学者、             微生物学家、配镜师、矫正视力者、             细菌学家、牙科医生、骨科医生。</item>
+        <item>    实验心理学家、普通心理学家、发展心理学家、教育心理学家、社会心理学家、  临床心理学家、目标学家、皮肤病学家、精神病学家、妇产科医师、眼科医生、 五官科医生、医学实验室技术专家、民航医务人员、护士。</item>
+        <item>   细菌学家、生理学家、化学专家、地质专家、地理物理学专家、纺织技术专家、  医院药剂师、工业药剂师、药房营业员。</item>
+        <item>   档案保管员、保险统计员。</item>
+        <item>   质量检验技术员、地质学技师、工程师、法官、图书馆技术辅导员、计算机操作员、  医院听诊员、家禽检查员。</item>
+        <item>   地理学家、地质学家、声学物理学家、矿物学家、古生物学家、石油学家、地震学家、  声学物理学家、气象学家、原子和分子物理学家、电学和磁学物理学家、设计审核员、  人口统计学家、数学统计学家、外科医生、城市规划家、气象员。</item>
+        <item>   流体物理学家、物理海洋学家、等离子体物理学家、农业科学家、动物学家、  食品科学家、园艺学家、植物学家、细菌学家、解剖学家、动物病理学家、作物病理学家、       药物学家、生物化学家、生物物理学家、细胞生物学家、临床化学家、遗传学家、      分子生物学家、质量控制工程师、地理学家、兽医、放射性治疗技师。</item>
+        <item>   化验员、化学工程师、纺织工程师、食品技师、渔业技术专家、材料和测试工程师、     电气工程师、土木工程师、航空工程师、行政官员、冶金专家、原子核工程师、陶瓷工程师、地质工程师、电力工程量、口腔科医生、牙科医生。</item>
+
+    </string-array>
+
+    <string-array name="universities">
+        <item>清华大学</item>
+        <item>北京大学</item>
+        <item>复旦大学</item>
+        <item>浙江大学</item>
+        <item>中山大学</item>
+        <item>华南理工大学</item>
+        <item>暨南大学</item>
+        <item>广州大学</item>
+        <item>广东工业大学</item>
+        <item>广东技术师范大学</item>
+        <item>广州中医药大学</item>
+        <item>广东医药大学</item>
+        <item>广东财经大学</item>
+        <item>广东金融学院</item>
+        <item>深圳大学</item>
+        <item>五邑大学</item>
+        <item>广东第二师范大学</item>
+        <item>韩山师范大学</item>
+        <item>仲恺农业工程学院</item>
+        <item>嘉应学院</item>
+    </string-array>
+
+    <string-array name="scores">
+        <item>656</item>
+        <item>650</item>
+        <item>634</item>
+        <item>620</item>
+        <item>609</item>
+        <item>587</item>
+        <item>550</item>
+        <item>558</item>
+        <item>513</item>
+        <item>521</item>
+        <item>483</item>
+        <item>533</item>
+        <item>473</item>
+        <item>499</item>
+        <item>486</item>
+        <item>559</item>
+        <item>459</item>
+        <item>466</item>
+        <item>434</item>
+        <item>461</item>
+        <item>436</item>
+
+    </string-array>
+
+    <string name="sds_static">
+
+\n1、社会型：(S)共同特征：喜欢与人交往、不断结交新的朋友、善言谈、愿意教导别人。关心社会问题、渴望发挥自己的社会作用。寻求广泛的人际关系，比较看重社会义务和社会道德 　　典型职业：喜欢要求与人打交道的工作，能够不断结交新的朋友，从事提供信息、启迪、帮助、培训、开发或治疗等事务，并具备相应能力。如: 教育工作者（教师、教育行政人员），社会工作者（咨询人员、公关人员）。
+
+\n2、企业型：(E)共同特征：追求权力、权威和物质财富，具有领导才能。喜欢竞争、敢冒风险、有野心、抱负。为人务实，习惯以利益得失，权利、地位、金钱等来衡量做事的价值，做事有较强的目的性。 　　典型职业：喜欢要求具备经营、管理、劝服、监督和领导才能，以实现机构、政治、社会及经济目标的工作，并具备相应的能力。如项目经理、销售人员，营销管理人员、政府官员、企业领导、法官、律师。
+
+\n3、常规型：(C)共同特点：尊重权威和规章制度，喜欢按计划办事，细心、有条理，习惯接受他人的指挥和领导，自己不谋求领导职务。喜欢关注实际和细节情况，通常较为谨慎和保守，缺乏创造性，不喜欢冒险和竞争，富有自我牺牲精神。 　　典型职业：喜欢要求注意细节、精确度、有系统有条理，具有记录、归档、据特定要求或程序组织数据和文字信息的职业，并具备相应能力。如：秘书、办公室人员、记事员、会计、行政助理、图书馆管理员、出纳员、打字员、投资分析员。
+
+\n4、实际型：(R)共同特点：愿意使用工具从事操作性工作，动手能力强，做事手脚灵活，动作协调。偏好于具体任务，不善言辞，做事保守，较为谦虚。缺乏社交能力，通常喜欢独立做事。 　　典型职业：喜欢使用工具、机器，需要基本操作技能的工作。对要求具备机械方面才能、体力或从事与物件、机器、工具、运动器材、植物、动物相关的职业有兴趣，并具备相应能力。如：技术性职业（计算机硬件人员、摄影师、制图员、机械装配工），技能性职业（木匠、厨师、技工、修理工、农民、一般劳动）。
+
+\n5、调研型：( I )共同特点：思想家而非实干家,抽象思维能力强，求知欲强，肯动脑，善思考，不愿动手。喜欢独立的和富有创造性的工作。知识渊博，有学识才能，不善于领导他人。考虑问题理性，做事喜欢精确，喜欢逻辑分析和推理，不断探讨未知的领域。 　　典型职业：喜欢智力的、抽象的、分析的、独立的定向任务，要求具备智力或分析才能，并将其用于观察、估测、衡量、形成理论、最终解决问题的工作，并具备相应的能力。如科学研究人员、教师、工程师、电脑编程人员、医生、系统分析员。
+
+\n6、艺术型：(A)共同特点：有创造力，乐于创造新颖、与众不同的成果，渴望表现自己的个性，实现自身的价值。做事理想化，追求完美，不重实际。具有一定的艺术才能和个性。善于表达、怀旧、心态较为复杂。 　　典型职业：喜欢的工作要求具备艺术修养、创造力、表达能力和直觉，并将其用于语言、行为、声音、颜色和形式的审美、思索和感受，具备相应的能力。不善于事务性工作。如艺术方面（演员、导演、艺术设计师、雕刻家、建筑师、摄影家、广告制作人），音乐方面（歌唱家、作曲家、乐队指挥），文学方面（小说家、诗人、剧作家）。    </string>
+    <string name="bpm_static">
+    \n\n\t\t本测评依据瑞文标准推理测验全国修订协作组的中国城市修订版常模评定，任何智力测试都未能涵盖所有的智力因素，某个特定的智力测验只能测量某些方面的智力，而且是当前水平。智力测试可以用作智力评估的参考，但不能用来预测学业成绩或工作绩效。比如说某人有了较高的智力素质，但其学业成绩或工作绩效不一定理想，在这种情况下还要考虑其他费智力因素的影响。"
+</string>
+
+    <string-array name="pf_a_str">
+        <item>乐群型+智慧型+稳定型</item>
+    </string-array>
+
+    <string-array name="pf_a_text">
+        <item>ttttt</item>
+    </string-array>
+
+    <string name="pf_static">
+
+    \n\n\t\t\n1．因素A——乐群性
+
+    (1)高分者。开朗、热情、随和，易于建立社会联系，在集体中倾向于承担责任和担任领导之职，在职业中容易得到晋升。推销员、企业经理、教师、会计、社会工作者等多具有此种特质。
+
+    (2)低分者。保守、孤僻、严肃、退缩、拘谨、生硬。
+
+    在职业上倾向于从事富于创造性的工作，如科学家(尤其是物理学家和生物学家)、艺术家、音乐家和作家。
+
+    \n2．因素B——智慧性
+
+(1)    高分者。聪明，富有才识，善于抽象思考。学习能力强，思考敏捷正确。适宜经过专业训练后的工作，如高科技技术人员、专业客户经理等。
+
+(2)    低分者。较迟钝，思考能力差。适宜一些琐事性工作，如杂务工等。
+
+    \n3．因素C——稳定性
+
+    (1)高分者。情绪稳定、成熟，能够面对现实，在集体中较受尊重。容易与别人合作，多倾向于从事技术性工作、管理性工作及飞行员、护士、研究人员、运动员等工作。
+
+    (2)低分者。情绪不稳定、幼稚、意气用事。当事业和爱情受挫时情绪沮丧，不易恢复。多倾向于从事会计、办事员、艺术家、售货员等职业。
+
+    \n4．因素E——影响性
+
+    (1)高分者。武断、盛气凌人、争强好胜、固执己见。
+
+有时表出反传统倾向，不循规蹈矩，在集体活动中有时不遵守纪律。社会接触较广泛。在学校学习期间，学习成绩一般或稍差。在大学期间可能表现出较强的数学能力。创造性和研究能力较强，经商能力稍差。在职业上，倾向于管理人员、艺术家、工程师、心理学家。
+
+    (2)低分者。谦卑、温顺、随和、惯于服从。职业选择倾向于咨询顾问、医生、办事员。
+
+    \n5．因素F——活泼性
+
+    (1)高分者。轻松、愉快、逍遥、放纵，社会联系广泛，在集体中较引人注目。在职业上，倾向于运动员、经商者、空中小姐等
+
+(2)低分者。节制、自律、严肃、沉默寡言。学术活动能力比社会活动能力强一些。职业上倾向于会计、行政人员、教授、科研人员等。
+
+    \n6．因素G——有恒性
+
+    (1)高分者。真诚、重良心、有毅力、执著、道德感强，孝敬、尊重父母。工作勤奋，睡眠较少，在直接接触的小群体中会自然而然地成为领导性人物。在职业上倾向于会计、百货经营经理等。
+
+    (2)低分者。自私、唯利是图、不讲原则、不守规则、不尊重父母、对异性较随便、缺乏社会责任感。在职业上倾向于艺术家、作家、记者等。
+
+    \n7．因素H——交际性
+
+    (1)高分者。冒险、不可遏制、在社会行为方面胆大妄为，副交感神经占支配地位。在职业上，倾向于竞技体育运动、音乐工作者等。
+
+    (2)低分者。害羞、胆怯、易受惊怕。交感神经占支配地位。在职业上，倾向于编辑人员、农业技术人员。
+
+    \n8．因素I——情感性
+
+    (1)高分者。细心、敏感、依赖性强；遇事优柔寡断，缺乏自信，在职业上倾向于美术工作者、行政人员、社会科学家、社会工作者、编辑。
+
+    (2)低分者。粗心、自立、现实。喜爱参加体育活动，通常身体较健康；遇事果断、自信。职业上倾向于工程师、电气技师、警察等。
+
+    \n9．因素L——怀疑性
+
+    (1)高分者。多疑、戒备，不易受欺骗，易困，多睡眠。
+
+在集体中与他人保持距离，缺乏合作精神。职业上倾向于编辑、管理人员、创造性科学研究人员。
+
+    (2)低分者。真诚、合作、宽容、容易适应环境，在集体中容易与人形成良好的关系。职业上倾向于会计、炊事员、电气技师、机械师、生物学家、物理学家。
+
+    \n10．因素M——想象性
+
+    (1)高分者。富于想象，生活豪放不羁，对事漫不经心，通常在中学毕业后努力争取继续学习而不是早早就业。在集体中不太被人们看重，不修边幅，不重整洁，粗枝大叶。经常变换工作，不易被晋升。具此种特质的人大多属于艺术家。
+
+    (2)低分者。现实、脚踏实地、处事稳妥、具忧患意识、办事认真谨慎。宜从事交通警、机场地勤等。
+
+    \n11．因素N——世故性
+
+    (1)高分者。机敏、狡黠、圆滑、世故，人情练达，善于处世。在社会中容易取得较好的地位，善于解决疑难问题，在集体中受到人们的重视。职业上倾向于心理学家、企业家、商人等。
+
+    (2)低分者。直率、坦诚、不加掩饰、不留情面，有时显得过于刻板，不为社会所接受。在社会中不易取得较高地位。职业上倾向于艺术家、汽车修理工、矿工、厨师、警卫。
+
+    \n12．因素O——忧虑性
+
+    (1)高分者。忧郁、自责、缺乏安全感，焦虑、不安、自扰、杞人忧天。朋友较少，在集体中既无领袖欲望，亦不被推选为领袖。常对环境进行抱怨，牢骚满腹。害羞、不善言
+
+词、爱哭。职业上倾向于艺术家、农工等。
+
+    (2)低分者。自信、心平气和、坦然、宁静，有时自负、自命不凡、自鸣得意，容易适应环境，知足常乐。职业上倾向于竞技体育运动员、行政人员、物理学家、机械师。
+
+    \n13．因素Q1——变革性
+
+    (1)高分者。好奇、喜欢尝试各种可能性，思想自由、开放、激进，接近进步的政治党派。对宗教活动不够积极，身体较健康，在家庭中较少大男子主义。职业倾向于艺术家、作家、会计、工程师、教授。
+
+    (2)低分者。保守、循规蹈矩、尊重传统。职业倾向于运动员、机械师、军官、音乐家、商人、警察、厨师、保姆。
+
+\n14．因素Q2——独立性
+
+    (1)高分者。自信、有主见、足智多谋。遇事勇于自己做主，不依赖他人，不推诿责任。职业上倾向于创造性工作，如艺术家、工程师、科学研究人员、教授、作家。
+
+    (2)低分者。依赖性强，缺乏主见，在集体中经常是一个随波逐流的人，对于权威是一个忠实的追随者。职业上倾向于厨师、保姆、护士、社会工作者。
+
+    \n15．因素Q3——自律性
+
+    (1)高分者。较强的自制力，较准确的意志力量，较坚定地追求自己的理想，有良好的自我感觉和自我评价，在集体中，可以提出有价值的建议。职业上倾向于大学行政领导、飞行员、科学家、电气技师、警卫、机械师、厨师、物理学家。
+
+    (2)低分者。不能自制、不遵守纪律、松懈、随心所欲、为所欲为、漫不经心、不尊重社会规范。在职业上倾向于艺术家。
+
+    \n16．因素Q4——紧张性
+
+    (1)高分者。紧张、有挫折感、经常处于被动局面、神经质、不自然、做作。在集体中很少被选为领导，通常感到不被别人尊重和接受，经常自叹命薄。职业倾向于农业工人、售货员、作家、记者。
+
+    (2)低分者。放松、平静、不敏感、有时反应迟钝。很少有挫折感，遇事镇静自若。职业倾向于空中小姐、海员、地理学家、物理学家。
+    </string>
+
+
+</resources>
+

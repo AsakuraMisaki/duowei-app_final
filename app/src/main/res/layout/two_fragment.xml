@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".two_fragment"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:text="高考政策"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:background="#00000000"
+            android:id="@+id/gaokaozhengce" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:text="|"
+            android:layout_marginTop="5dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:text="广东政策"
+            android:layout_marginTop="5dp"
+            android:background="#00000000"
+            android:id="@+id/gaungdongzhengce"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:text="|"
+            android:layout_marginTop="5dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:text="院校信息"
+            android:layout_marginTop="5dp"
+            android:background="#00000000"
+            android:id="@+id/yuanxiaoxinxi"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:text="|"
+            android:layout_marginTop="5dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:text="招生信息"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:background="#00000000"
+            android:id="@+id/zhaoshengxinxi"/>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="20dp">
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp">
+                    <!--轮播图位置-->
+                    <android.support.v4.view.ViewPager
+                        android:id="@+id/live_view_pager"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+                    <!--右下角小圆点-->
+                    <LinearLayout
+                        android:layout_gravity="bottom|center"
+                        android:id="@+id/live_indicator"
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="10dp"/>
+
+                </FrameLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="高考生物知识点汇总"
+                        android:textSize="20dp"
+                        android:layout_margin="5dp"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:layout_margin="5dp"
+                        android:lineSpacingExtra="5dp"
+                        android:text="一、基因突变的实例: \t镰刀型细胞贫血症\t\t⑴症状：红细胞由正常的圆饼状变成镰刀型，导致红细胞不能顺利通过毛细血管聚集在一起，红细胞破裂（溶血），造成贫血。" />
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:background="#4499ff"
+                    android:src="@drawable/default_pic"/>
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#000000"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="高考生物知识点汇总"
+                        android:textSize="20dp"
+                        android:layout_margin="5dp"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:layout_margin="5dp"
+                        android:lineSpacingExtra="5dp"
+                        android:text="一、基因突变的实例: \t镰刀型细胞贫血症\t\t⑴症状：红细胞由正常的圆饼状变成镰刀型，导致红细胞不能顺利通过毛细血管聚集在一起，红细胞破裂（溶血），造成贫血。" />
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:background="#4499ff"
+                    android:src="@drawable/default_pic"/>
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#000000"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="高考生物知识点汇总"
+                        android:textSize="20dp"
+                        android:layout_margin="5dp"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:layout_margin="5dp"
+                        android:lineSpacingExtra="5dp"
+                        android:text="一、基因突变的实例: \t镰刀型细胞贫血症\t\t⑴症状：红细胞由正常的圆饼状变成镰刀型，导致红细胞不能顺利通过毛细血管聚集在一起，红细胞破裂（溶血），造成贫血。" />
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:background="#4499ff"
+                    android:src="@drawable/default_pic"/>
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#000000"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="高考生物知识点汇总"
+                        android:textSize="20dp"
+                        android:layout_margin="5dp"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:layout_margin="5dp"
+                        android:lineSpacingExtra="5dp"
+                        android:text="一、基因突变的实例: \t镰刀型细胞贫血症\t\t⑴症状：红细胞由正常的圆饼状变成镰刀型，导致红细胞不能顺利通过毛细血管聚集在一起，红细胞破裂（溶血），造成贫血。" />
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:background="#4499ff"
+                    android:src="@drawable/default_pic"/>
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#000000"
+                />
+
+
+
+        </LinearLayout>
+
+
+
+
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>
